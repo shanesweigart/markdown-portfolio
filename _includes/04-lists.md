@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* no :bee:'s in this barn
+* John Galt commits to no issues, besides his own.
+* :spider:
